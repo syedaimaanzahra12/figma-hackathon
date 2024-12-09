@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-siteBg text-white; /* Set the background color and text color globally */
+    margin: 0; /* Reset margin for a consistent layout */
+    padding: 0;
+  }
